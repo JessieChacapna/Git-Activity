@@ -1,0 +1,5 @@
+Quick Preview to Create File on CMD:
+Open Command Prompt in Normal Way (Not in Administrative Format)
+Execute the command echo [Entire Text] > [File-Name]. txt.
+Or Execute command copy con [File-Name]. txt to write on the Command Prompt.
+Or Execute command notepad [File-Name]. txt to directly open the application.
